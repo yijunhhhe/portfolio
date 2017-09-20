@@ -1,14 +1,14 @@
 body{
-    background:black;
+    background:white;
 }
 .header{
     text-align: center;
-    color:white;
+    color:black;
 }
 
 
 .navbar-nav li a{
-    color:white;
+    color:black;
     font-size: 20px;
 }
 
@@ -29,3 +29,6 @@ body{
     font-size: 10px;
 }
 
+#website .btn{
+    background: white;
+}
